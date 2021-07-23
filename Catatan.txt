@@ -1,0 +1,17 @@
+Belajar Laravel 5.8
+Pemrogramman Web Unpas
+
+dimulai 23-7-2021
+dimulai 
+
+telah sampi video
+NGOBAR #18 - BELAJAR LARAVEL UNTUK PEMULA - 2. Controller, Database, Migration & Model menit ke 43
+
+XAMPP for Windows 7.4.8
+phpMyAdmin
+Version information: 5.0.2
+
+menggunakan offline bootstrap v4.3.1
+* tidak berfungsi jalan di sever Laravel
+* berfungsi jalan di sever localhost tp link tidak fungsi
+  dan jquery tidak fungsi
