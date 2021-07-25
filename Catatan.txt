@@ -2,18 +2,27 @@ Belajar Laravel 5.8
 Pemrogramman Web Unpas
 
 dimulai 23-7-2021
-dimulai 
+dimulai 26-7-2021
+SELESAI!!!
 
-telah sampi video
-NGOBAR #18 - BELAJAR LARAVEL UNTUK PEMULA - 2. Controller, Database, Migration & Model
+hanya video yg belum!!!!!
+NGOBAR #21 - Upload Aplikasi Laravel Ke WEB HOSTING
+
 
 XAMPP for Windows 7.4.8
 phpMyAdmin
 Version information: 5.0.2
 
 menggunakan offline bootstrap v4.3.1
-* tidak berfungsi jalan di sever Laravel
+* tidak berfungsi jalan di server Laravel
 * berfungsi jalan di sever localhost tp link tidak fungsi
   dan jquery tidak fungsi
+* tidak jalan bootstrap dan sistem pada detail mahasiswa dengan
+  menggunakan localhost
+* tidak jalan bootstrap pada tambah data mahasiswa dengan
+  menggunakan localhost tp sistem berjalan
+* jika menggunakan server laravel detail dan tambah data mahasiswa berfungsi
+  tp tidak tampil bootstrap.
+
 
 alias graph="git log --all --decorate --oneline --graph"
